@@ -12,9 +12,9 @@ bikeshare.py
 manual.yaml
 
 ###CSV Files
-[1] Chicago.csv 
-[2] New_York_City.csv 
-[3] Washington.csv
+[1] chicago.csv 
+[2] new_york_city.csv 
+[3] washington.csv
 
 ### Credits
 -@SudKul (Udacity mentor) (https://github.com/udacity/pdsnd_github/commits?author=SudKul)
