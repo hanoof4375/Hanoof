@@ -16,7 +16,7 @@ def get_filters():
     city = ''
     #Running this loop to ensure the correct user input gets selected else repeat
     while city not in CITY_DATA.keys():
-        print("\nWelcome to this program. Please choose your city:")
+        print("\nWelcome to this program.To please choose a city:")
         print("\n1. Chicago 2. New York City 3. Washington")
         print("\nAccepted input:\nFull name of city; not case sensitive (e.g. chicago or CHICAGO).\nFull name in title case (e.g. Chicago).")
         #Taking user input and converting into lower to standardize them
