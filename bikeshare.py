@@ -39,7 +39,7 @@ def get_filters():
         month = input().lower()
 
         if month not in MONTH_DATA.keys():
-            print("\nInvalid input. Please try again in the accepted input format.")
+            print("\nInvalid input. Please try again and make sure it is in the accepted input format.")
             print("\nRestarting...")
 
     print(f"\nYou have chosen {month.title()} as your month.")
